@@ -1,0 +1,29 @@
+{
+  "name": "Recursive-research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "forEachDeep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxc9314/Recursive-research.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxc9314/Recursive-research/issues"
+  },
+  "homepage": "https://github.com/lxc9314/Recursive-research#readme",
+  "dependencies": {
+    "is-plain-object": "^3.0.0",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4"
+  }
+}
